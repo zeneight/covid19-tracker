@@ -1,4 +1,4 @@
-# covid-tracker
+# covid19-tracker
 
 ## Project setup
 ```
